@@ -1,0 +1,9 @@
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\bin\Debug\Palace.exe.config
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\bin\Debug\Palace.exe
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\bin\Debug\Palace.pdb
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\obj\Debug\Palace.csprojResolveAssemblyReference.cache
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\obj\Debug\Palace.Form1.resources
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\obj\Debug\Palace.Properties.Resources.resources
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\obj\Debug\Palace.csproj.GenerateResource.Cache
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\obj\Debug\Palace.exe
+E:\LuBenjie2011\备课\人工智能导论\人工智能实验\Palace\Palace\obj\Debug\Palace.pdb
